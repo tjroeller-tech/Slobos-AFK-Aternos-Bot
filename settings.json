@@ -1,14 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "ThomasTheFuckingLoser",
+    "username": "ThomassLoser",
     "password": "",
     "type": "offline"
   },
   "server": {
     "ip": "crackedunstablesimulator.mcsh.io",
     "port": 25565,
-    "version": "1.21.11",
+    "version": "1.21.1",
     "try-creative": false
   },
   "position": {
