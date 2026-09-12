@@ -7,8 +7,8 @@
   },
   "server": {
     "ip": "crackedunstablesimulator.mcsh.io",
-    "port": 12886,
-    "version": "",
+    "port": 25565,
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
