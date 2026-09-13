@@ -27,17 +27,13 @@
       "sneak": true
     },
     "chat-messages": {
-      "enabled": false,
-      "repeat": true,
-      "repeat-delay": 180,
-      "messages":"chat-messages": {
       "enabled": true,
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
+        "nigga",
         "tpa to 1v1",
-        "free diamonds tpa to me",
-        "is this real unstable?",
+        "free diamonds tpa to me"
       ]
     },
     "chat-log": true,
@@ -86,6 +82,6 @@
     }
   },
   "chat": {
-    "respond": false
+    "respond": true
   }
 }
