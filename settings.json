@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "lunarsmp744.mcsh.io",
+    "ip": "mortalsmp.mcsh.io",
     "port": 25565,
     "version": "1.21.1",
     "try-creative": false
